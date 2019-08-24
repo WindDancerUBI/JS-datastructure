@@ -2,11 +2,11 @@
  * @Description: In User Settings Edit
  * @Author: your name
  * @Date: 2019-08-18 08:30:28
- * @LastEditTime: 2019-08-18 09:37:18
+ * @LastEditTime: 2019-08-24 11:07:16
  * @LastEditors: Please set LastEditors
  */
 
-// 封装栈结构
+// 封装栈结构--使用数组封装
 function Stack (){
     this.items = [];
     
